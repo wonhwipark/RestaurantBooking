@@ -51,7 +51,7 @@ public:
 
 protected:
 	void SetUp() override {
-		NOT_ON_THE_HOUR = makeTime(2021, 3, 26, 9, 0); // 2021년 3월 26일 9시 정각
+		NOT_ON_THE_HOUR = makeTime(2021, 3, 26, 9, 1); // 2021년 3월 26일 9시 정각
 	}
 };
 
