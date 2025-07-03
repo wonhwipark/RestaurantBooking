@@ -33,9 +33,6 @@ public:
 };
 
 
-
-using namespace testing;
-
 class BookingScheduleFixture : public Test {
 public:
 	tm makeTime(int year, int month, int day, int hour, int minute) {
