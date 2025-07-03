@@ -36,6 +36,12 @@
     <ClCompile Include="test.cpp">
       <Filter>TEST</Filter>
     </ClCompile>
+    <ClCompile Include="testable_mail_sender.cpp">
+      <Filter>TEST</Filter>
+    </ClCompile>
+    <ClCompile Include="testable_booking_scheduler.cpp">
+      <Filter>TEST</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
